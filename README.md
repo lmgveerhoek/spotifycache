@@ -1,0 +1,1 @@
+# Spotify Persistent Cache remover
